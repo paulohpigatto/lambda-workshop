@@ -1,3 +1,3 @@
 FROM gitpod/workspace-full
 
-RUN sudo npm i -g serverless
+CMD sudo npm i -g serverless
