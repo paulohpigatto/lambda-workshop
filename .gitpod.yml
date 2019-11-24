@@ -1,2 +1,2 @@
-image:
-  file: .gitpod.dockerfile
+tasks:
+  - init: npm i -g serverless
