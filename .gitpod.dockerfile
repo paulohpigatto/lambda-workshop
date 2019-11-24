@@ -1,3 +1,3 @@
 FROM gitpod/workspace-full
 
-CMD npm i -g serverless
+ENTRYPOINT npm i -g serverless
