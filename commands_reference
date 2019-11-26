@@ -1,2 +1,2 @@
-serverless config credentials --provider aws --key XXXX --secret XXXXXX
-serverless create --template aws-nodejs --name pigatto-lambda
+serverless config credentials --provider aws --key AKIA4BMHL7WTYYSXYYNX --secret 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
+serverless create --template aws-nodejs --name seu-nome-lambda
